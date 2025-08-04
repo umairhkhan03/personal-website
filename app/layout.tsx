@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Umair Husain Khan | EF Application",
-  description: "Online CV for Entrepreneurs First application",
+  title: "Umair Husain Khan | YC Application",
+  description: "Online CV for Y Combinator application",
     generator: 'v0.dev'
 }
 
